@@ -86,7 +86,7 @@ show access-lists
 ```
 
 ## 👤 Author
-[Your Name]
+Ridge Junior Abuto
 
 ## 📄 License
 This project is for educational purposes.
@@ -95,12 +95,3 @@ This project is for educational purposes.
 **File**: `Secure-Multi-Section-Network.pkt`
 **Format**: Cisco Packet Tracer
 **Version**: 8.x
-```
-
-This README is:
-- ✅ **Accurate** - Only mentions the .pkt file you actually have
-- ✅ **Professional** - Looks great on GitHub
-- ✅ **Informative** - Explains what the project does
-- ✅ **Simple** - No fake folder structure
-
-**Just save this as `README.md` and upload it with your `.pkt` file to your GitHub repository!** 🚀
